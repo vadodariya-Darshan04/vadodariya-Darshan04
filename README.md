@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👨‍🎓 Pursuing MSc-IT at GLS University, Ahmedabad<br>💻 Passionate about Software Development, Mobile Apps & Emerging Technologies<br>📱 Skilled in System/software Development and creating modern solutions.<br>🌐 Interested in Full Stack Development, APIs, Database Management & Cloud Technologies<br>🧠 Continuously improving problem-solving, programming, and project development skills<br>🔍 Exploring new technologies in AI, modern software solutions, and scalable applications<br>🤝 Enjoy collaborating on innovative ideas and practical tech projects<br>
 
 
